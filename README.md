@@ -16,25 +16,12 @@ I’m driven by the idea of using technology to solve real-world problems. Wheth
 Here’s a breakdown of my current technical toolkit:
 
 - **Languages**:  
-  `C`, `Python`, 
+  `C`, `Python`,`HTML`,`CSS`, 
 
-- **Frontend Development**:  
-  `HTML`, `CSS`, `JavaScript`, `PHP`
-
-- **Backend & Database**:  
-  `MySQL`, `SQL`, `XAMPP`
-
-- **Frameworks & Libraries**:  
-  *Currently exploring React and Django*
-
-- **Testing & Automation**:  
-  `Selenium (Python)`
 
 - **Version Control & IDEs**:  
   `Git`, `Visual Studio Code`, `Eclipse`
 
-- **Cloud & Platforms**:  
-  `AWS`, `Azure` *(Basic exposure via training)*
 
 - **Operating Systems**:  
   `Windows`, `Linux`
@@ -45,14 +32,13 @@ Here’s a breakdown of my current technical toolkit:
 
 I actively take part in courses, bootcamps, and training to keep my skills sharp. Some of the certifications I've completed include:
 
-- **UI/UX for Beginners** – SkillUp by Simplilearn  
-- **JavaScript for Beginners** – SkillUp  
+
 - **Generative AI Career Essentials** – Microsoft & LinkedIn  
 - **Introduction to Cloud Computing** – Infosys Springboard  
 - **Hands-on Azure Cloud** – Infosys Springboard  
 - **Python Bootcamp** – YBI Foundation  
 - **Spoken Tutorials (C, C++, Java, HTML, Python)** – IIT Bombay  
-- **Power BI** – (Entry-level business intelligence & data visualization)
+
 
 ---
 
@@ -75,33 +61,23 @@ Currently working on improving my frontend and cloud integration skills through 
 
 ## 💼 Internship Experience
 
-I've been fortunate to gain some hands-on industry experience through the following internships:
+- **Full Stack Development** – Grow4Tech Pvt Ltd (May–June 2023)
+Worked on frontend/backend development, APIs, and database integration.
 
-- **Full Stack Development** – *Grow4Tech Pvt Ltd (May–June 2023)*  
-  Gained exposure to frontend/backend development, APIs, and database integration.
+- **AWS DevOps** – NSDC (Sep–Nov 2024) 
+Gained experience in AWS cloud services and CI/CD practices.
 
-- **AWS DevOps** – *National Skill Development Corporation (Sep–Nov 2024)*  
-  Learned about cloud services, CI/CD concepts, and deployment practices using AWS tools.
+- **Android App Development** – Genesis Training
+Built basic Android apps and explored mobile UI/UX.
 
-- **Android App Development** – *Genesis Training*  
-  Developed basic Android apps and explored UI/UX in mobile application design.
-
-  **Data Science** - *Gyaanova
-(Mar-Jun 2025)*
-
-   Explored core data analysis concepts, worked with Python libraries like Pandas and NumPy, and gained hands-on experience in cleaning, visualizing, and interpreting data for real-world scenarios.
----
+- **Data Science** – Gyaanova (Mar–Jun 2025)
+Worked on data cleaning, visualization, and analysis using Python (Pandas, NumPy).
 
 ## 🌱 Current Goals
 
 Here’s what I’m currently working toward:
 
 🚀 Building a solid portfolio with more full-stack projects
-
-🧩 Exploring open-source contributions to learn from the community
-
-☁️ Diving deeper into cloud services and DevOps practices
-
 
 
 📊 Strengthening my foundations in data analysis, visualization, and Python-based data science tools
@@ -110,7 +86,6 @@ Here’s what I’m currently working toward:
 
 🤖 Exploring the basics of machine learning with scikit-learn
 
-💡 Getting industry-ready with clean, scalable, and maintainable code practices
 
 
 ## 🤝 Let's Connect
@@ -118,8 +93,7 @@ Here’s what I’m currently working toward:
 I’d love to connect, collaborate, or even just chat about technology, learning, or ideas.
 
 - 📧 Email: [rohitkumarpbegur@gmail.com](mailto:rohitkumarpbegur@gmail.com)  
-- 💼 LinkedIn: [Rohit Kumar](www.linkedin.com/in/rohit-kumar-78391b263)   
-- 🌐 Portfolio: *Coming soon!*  
+- 💼 LinkedIn: [Rohit Kumar](www.linkedin.com/in/rohit-kr-dev)   
 
 ---
 
