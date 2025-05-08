@@ -45,18 +45,14 @@ I actively take part in courses, bootcamps, and training to keep my skills sharp
 ## 🛠️ Projects I've Worked On
 
 Here are a few projects that I’ve either built or contributed to during my academic journey:
+- **Travel Management System**
+DBMS project using PHP, MySQL, and Python to manage travel data.
 
-- **Travel Management System**  
-  A database-driven web application developed using PHP, MySQL, Python, and standard web technologies. Built as a DBMS mini project with real-world use cases.
+- **Course Coordinator’s Diary**
+Web tool for managing student records using HTML, CSS, JS, PHP, and SQL.
 
-- **Course Coordinator’s Diary**  
-  A web-based solution to help course coordinators maintain and organize student records. Built using HTML, CSS, JS, PHP, and SQL for smooth form processing and data storage.
-
-- **E-Commerce Website Automation**  
-  Designed automation scripts in Python using Selenium to test various user scenarios on an e-commerce platform, from login to checkout.
-
-Currently working on improving my frontend and cloud integration skills through small side projects.
-
+- **E-Commerce Website Automation**
+Automated user flows on an e-commerce site using Selenium and Python.
 ---
 
 ## 💼 Internship Experience
