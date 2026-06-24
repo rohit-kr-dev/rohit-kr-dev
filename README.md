@@ -13,17 +13,8 @@ div align="center">
 
 
 <img src="https://komarev.com/ghpvc/?username=rohit-kr-dev&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
-
-&nbsp;
-
 <a href="https://linkedin.com/in/rohit-kr-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-
-&nbsp;
-
 <a href="mailto:rohitkumarpbegur@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-
-&nbsp;
-
 <img src="https://img.shields.io/badge/Open%20to%20Work-28A745?style=flat&logo=checkmarx&logoColor=white"/>
 
 
