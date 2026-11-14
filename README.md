@@ -1,72 +1,122 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/hero-mobile.svg" />
+    <img src="./assets/profile/hero.svg" alt="Rohit Kumar — Software Developer focused on Python Backend, Applied AI, and Web Development. Animated terminal banner." width="100%" />
+  </picture>
+</p>
 
-# Hi, I'm Rohit Kumar
+<p align="center">
+  <a href="https://bespoke-showcase-gen.lovable.app/"><img alt="View my portfolio" src="https://img.shields.io/badge/Portfolio-64F4C2?style=for-the-badge&logo=googlechrome&logoColor=0B1020" height="30" /></a>
+  <a href="https://www.linkedin.com/in/rohit-kr-dev/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-8C9EFF?style=for-the-badge&logo=linkedin&logoColor=0B1020" height="30" /></a>
+  <a href="mailto:rohitkumarpbegur@gmail.com"><img alt="Email Rohit" src="https://img.shields.io/badge/Email-FFD47E?style=for-the-badge&logo=gmail&logoColor=0B1020" height="30" /></a>
+</p>
 
-### Software Developer · Python Backend · Applied AI
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#experience">Experience</a> &nbsp; / &nbsp;
+  <a href="#lets-build-something-useful">Get in touch</a>
+</p>
 
-I build backend systems, document-processing tools, and web applications.
+## What I build
 
-[Portfolio](https://bespoke-showcase-gen.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/rohit-kr-dev/) · [Email](mailto:rohitkumarpbegur@gmail.com)
+I'm **Rohit Kumar**, a **Software Developer at Polymetalz Pvt. Ltd.** I work on Python backend systems, AI-powered internal tools, and web applications.
 
-**Open to backend, AI/ML, and data engineering opportunities.**
+I enjoy connecting the whole workflow: **data in → useful processing → clear APIs → an interface people can use.** My projects span resume analysis, speech-to-screenplay tools, business dashboards, and marketplace experiences.
 
-</div>
+> **Open to opportunities:** Backend Development · AI/ML Engineering · Data Engineering
 
----
+## Selected work
 
-## About me
+<a href="https://github.com/rohit-kr-dev/Resume_Eextractor">
+  <img src="./assets/profile/resume-extractor.svg" alt="Resume Extractor PRO — Python and Flask document intelligence project. Open repository." width="100%" />
+</a>
 
-I'm a Software Developer at **Polymetalz Pvt. Ltd.**, working on backend systems and AI-powered internal tools.
+Extract structured information from **PDF, DOCX, and TXT resumes**, compare candidates with job descriptions, and explore recruiter analytics. Includes candidate filtering and **CSV, JSON, and Excel exports**.
 
-My focus is turning unstructured information into useful workflows—from extracting resume data and matching job descriptions to building APIs, dashboards, and business applications.
+[Explore the code →](https://github.com/rohit-kr-dev/Resume_Eextractor)
 
-- **Backend:** Python, Flask, REST APIs, MySQL, and Firebase.
-- **Applied AI:** NLP, document extraction, resume analysis, and speech-to-text workflows.
-- **Web development:** React, JavaScript, HTML, and CSS.
-- **Cloud and tooling:** AWS, Git, Linux, and Docker-based project workflows.
+<a href="https://github.com/rohit-kr-dev/voice2screenplay">
+  <img src="./assets/profile/voice2script.svg" alt="Voice2Script Studio — speech transcription and AI-assisted screenplay generation. Open repository." width="100%" />
+</a>
 
-## Selected projects
+Combine **Whisper speech transcription** with **Gemini-assisted screenplay generation**. A Streamlit interface connects audio uploads, genre and tone controls, and Fountain/TXT/JSON exports.
 
-### [Resume Extractor PRO & ATS Analytics](https://github.com/rohit-kr-dev/Resume_Eextractor)
+[Explore the code →](https://github.com/rohit-kr-dev/voice2screenplay)
 
-A resume-processing application that extracts structured information from PDF, DOCX, and TXT files, compares resumes with job descriptions, and presents recruiter analytics.
+<a href="https://github.com/rohit-kr-dev/real-estate-react-app">
+  <img src="./assets/profile/stonecore.svg" alt="Stonecore Capital — React real estate website. Open repository." width="100%" />
+</a>
 
-**Built with:** Python · Flask · NLP · Chart.js · Docker  
-**Features:** Resume parsing, job-description matching, candidate filtering, and CSV/JSON/Excel exports.
+A responsive **React property-discovery website** with searchable listings, location and budget filters, and interactive property cards for desktop and mobile.
 
-### [Voice2Script Studio](https://github.com/rohit-kr-dev/voice2screenplay)
+[Explore the code →](https://github.com/rohit-kr-dev/real-estate-react-app)
 
-An audio-to-screenplay workflow that combines speech transcription with AI-assisted script generation and export.
+<a href="https://github.com/RaithaMarga/RaithaMarga">
+  <img src="./assets/profile/raithamarga.svg" alt="RaithaMarga — open-source contributions to a Kannada and English agricultural marketplace. Open repository." width="100%" />
+</a>
 
-**Built with:** Python · Streamlit · Whisper · Gemini  
-**Features:** Audio uploads, transcription, genre and tone controls, and Fountain/TXT/JSON exports.
+Contributions to a **Kannada/English farmer-to-buyer marketplace**: cleaner navigation, mobile layouts, typed quantity controls, guest-to-buyer cart synchronization, and transparent platform-fee summaries.
 
-### [Stonecore Capital — Real Estate Website](https://github.com/rohit-kr-dev/real-estate-react-app)
+[Explore the project →](https://github.com/RaithaMarga/RaithaMarga) · [View my navigation and cart work →](https://github.com/RaithaMarga/RaithaMarga/tree/fix/home-navigation-cart)
 
-A responsive property website with searchable listings, property cards, and layouts for desktop and mobile.
+## Toolkit
 
-**Built with:** React · JavaScript · Tailwind CSS  
-**Features:** Location and budget filters, property discovery, and interactive UI components.
+**Backend & databases**
 
-### [RaithaMarga — Agricultural Marketplace](https://github.com/RaithaMarga/RaithaMarga)
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="27" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-101a2e?style=for-the-badge&logo=flask&logoColor=64f4c2" height="27" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-101a2e?style=for-the-badge&logo=postman&logoColor=64f4c2" height="27" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-101a2e?style=for-the-badge&logo=mysql&logoColor=64f4c2" height="27" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-101a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28" height="27" />
+</p>
 
-Recent contributions to a Kannada/English marketplace connecting farmers and buyers.
+**AI & data**
 
-**Worked on:** React navigation, mobile layouts, typed quantity controls, guest-to-buyer cart sync, and transparent platform-fee summaries.
+<p>
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-101a2e?style=for-the-badge&logo=&logoColor=ab9bff" height="27" />
+  <img alt="Whisper" src="https://img.shields.io/badge/Whisper-101a2e?style=for-the-badge&logo=&logoColor=ab9bff" height="27" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-101a2e?style=for-the-badge&logo=pandas&logoColor=ab9bff" height="27" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-101a2e?style=for-the-badge&logo=streamlit&logoColor=ab9bff" height="27" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-101a2e?style=for-the-badge&logo=&logoColor=ab9bff" height="27" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-101a2e?style=for-the-badge&logo=&logoColor=ab9bff" height="27" />
+</p>
 
-## Professional experience
+**Web & languages**
 
-| Role | Organization | Period |
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-101a2e?style=for-the-badge&logo=react&logoColor=61DAFB" height="27" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-101a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="27" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-101a2e?style=for-the-badge&logo=html5&logoColor=E34F26" height="27" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-101a2e?style=for-the-badge&logo=css&logoColor=8fbcff" height="27" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-101a2e?style=for-the-badge&logo=openjdk&logoColor=8fbcff" height="27" />
+</p>
+
+**Cloud & developer tools**
+
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-101a2e?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="27" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-101a2e?style=for-the-badge&logo=docker&logoColor=2496ED" height="27" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-101a2e?style=for-the-badge&logo=git&logoColor=F05032" height="27" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-101a2e?style=for-the-badge&logo=linux&logoColor=FCC624" height="27" />
+</p>
+
+## Experience
+
+### Software Developer · Polymetalz Pvt. Ltd.
+**Aug 2025 – Present**
+
+Building backend systems and AI-powered internal tools. My work includes a private CRM dashboard for **data visualization, user management, and workflow tracking**, using Python, Flask, Firebase, and MySQL.
+
+| Earlier experience | Organization | Period |
 | :--- | :--- | :--- |
-| **Software Developer** | Polymetalz Pvt. Ltd. | Aug 2025 – Present |
 | Data Science Intern | Gyaanova | Mar 2025 – Jun 2025 |
 | AWS DevOps Intern | NSDC | Sep 2024 – Nov 2024 |
 | Full Stack Development Intern | Grow4Tech Pvt. Ltd. | May 2023 – Jun 2023 |
 
-At Polymetalz, my work includes a private CRM dashboard for internal data visualization, user management, and workflow tracking using Python, Flask, Firebase, and MySQL.
-
 <details>
-<summary><strong>Certifications & learning</strong></summary>
+<summary><strong>Certifications & continuous learning</strong></summary>
 
 - **Data Analytics Job Simulation** — Deloitte
 - **Hands-On Microsoft Azure Cloud** — Infosys Springboard
@@ -77,11 +127,14 @@ At Polymetalz, my work includes a private CRM dashboard for internal data visual
 
 ---
 
-## Let's connect
+<div align="center">
 
-I'm interested in opportunities to build useful backend systems and applied AI tools, and in collaborating on practical open-source projects.
+## Let's build something useful
 
-**Email:** [rohitkumarpbegur@gmail.com](mailto:rohitkumarpbegur@gmail.com)  
-**LinkedIn:** [rohit-kr-dev](https://www.linkedin.com/in/rohit-kr-dev/)  
-**Portfolio:** [View my work](https://bespoke-showcase-gen.lovable.app/)  
-**GitHub:** [Browse my repositories](https://github.com/rohit-kr-dev?tab=repositories)
+**Have a backend challenge, an AI workflow, or a product idea? Let's talk.**
+
+[Email me](mailto:rohitkumarpbegur@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/rohit-kr-dev/) · [Visit my portfolio](https://bespoke-showcase-gen.lovable.app/)
+
+<sub>Python backend · Applied AI · Thoughtful web experiences</sub>
+
+</div>
